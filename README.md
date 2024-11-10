@@ -26,7 +26,7 @@ Git (to clone the repository)
 
 **1. Clone the Repository**
 
-git clone https://github.com/your-username/student-crud-api.git
+git clone https://github.com/hemanth-0609/studentapi.git
 cd studentapi
 
 
